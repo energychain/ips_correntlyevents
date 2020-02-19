@@ -1,0 +1,12 @@
+{
+    "id": "{FE038FF1-66A2-EE4B-E37D-197CEA2895E1}",
+    "author": "STROMDAO GmbH",
+    "name": "Corrently",
+    "url": "https://www.corrently.de/",
+    "compatibility": {
+        "version": "5.0"
+    },
+    "version": "1.0",
+    "build": 35,
+    "date": 0
+}
